@@ -12,13 +12,6 @@ Each mode is implemented with simplified logic to showcase how block cipher mode
 
 These libraries are optimized for performance and include robust, tested implementations of encryption algorithms and modes.
 
-## Usage
-
-Each mode is implemented in a separate C++ file. Compile and run the desired file to see how encryption works in the selected mode. Example files include:
-
-- `ecb_encryption.cpp`
-- `cbc_encryption.cpp`
-
 ## Contribution
 
 Feel free to contribute by adding other block cipher modes or improving the existing implementations.
